@@ -1,0 +1,4 @@
+conda create --name financial_forecasting
+conda remove financial_forecasting
+conda activate financial_forecasting
+pip install -r requirements.txt

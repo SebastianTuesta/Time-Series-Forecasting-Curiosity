@@ -1,0 +1,4 @@
+git+https://github.com/pydata/pandas-datareader.git
+TA-Lib
+pywavelets==0.2.2
+mlens
